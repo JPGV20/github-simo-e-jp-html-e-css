@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nome do Repositório - Página Oficial</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Ícones do FontAwesome para os botões -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="container">
+            <span class="badge">Open Source</span>
+            <h1>Nome do Repositório</h1>
+            <p>JPESIMO da escola valmir da silva .</p>
+            <div class="cta-buttons">
+                <a href="https://github.com/JPGV20?tab=repositories" target="_blank" class="btn primary">
+                    <i class="fab fa-github"></i> Ver no GitHub
+                </a>
+                <a href="#features" class="btn secondary">Saiba Mais</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Seção de Recursos / Features -->
+    <section id="features" class="features">
+        <div class="container">
+            <h2>Recursos Principais</h2>
+            <div class="grid">
+                <div class="card">
+                    <i class="fas fa-bolt"></i>
+                    <h3>Rápido e Leve</h3>
+                    <p>Otimizado para desempenho máximo com o mínimo de consumo de recursos da escola.</p>
+                </div>
+                <div class="card">
+                    <i class="fas fa-shield-alt"></i>
+                    <h3>Seguro</h3>
+                    <p>Desenvolvido com os melhores programadores.</p>
+                </div>
+                <div class="card">
+                    <i class="fas fa-puzzle-piece"></i>
+                    <h3>Fácil de Usar</h3>
+                    <p>Configuração simples e documentação completa para começar em minutos.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+    <section class="installation">
+        <div class="container">
+            <h2>Como Começar</h2>
+            <p>Clone o repositório e comece a usar rapidamente:</p>
+            <div class="code-box">
+                <code>git clone https://github.com/JPGV20?tab=repositories</code>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 jpesimo. Distribuído sob a licença MIT.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
